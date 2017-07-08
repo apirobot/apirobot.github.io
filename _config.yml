@@ -3,7 +3,7 @@ title:            "apirobot"
 description:      "Блог о веб-разработке"
 url:              http://apirobot.me # Site url, without a slash at the end.
 signoff:          "apirobot" # Your name
-facebook_appid:   1808092242854200 # APP ID for like button
+facebook_appid:   # APP ID for like button
 vk_appid:         6106125 # # APP ID for like button
 google_analytics: # Set tracking, remove from /javascripts/basic.js if unwanted.
 share:            true # Turn on twitter and facebook share buttons
