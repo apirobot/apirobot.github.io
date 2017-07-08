@@ -38,3 +38,10 @@
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 {% endif %}
+
+{% if site.vk_appid %}
+<script type="text/javascript" src="//vk.com/js/api/openapi.js?146"></script>
+<script type="text/javascript">
+  VK.init({apiId: "{{ site.vk_appid }}", onlyWidgets: true});
+</script>
+{% endif %}
