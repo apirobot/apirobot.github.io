@@ -50,6 +50,7 @@
           {{ content }}
         </div>
         {% if is_post %}{% include signoff.html %}{% endif %}
+        {% if is_post %}{% include disqus.html %}{% endif %}
       </main>
       {% if is_post %}{% include pagination.html %}{% endif %}
     </div>
