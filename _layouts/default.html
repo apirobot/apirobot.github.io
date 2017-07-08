@@ -51,7 +51,7 @@
           <div class="fb-like" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false" data-font="arial" data-action="like"></div>
           <div id="vk_like"></div>
           <script type="text/javascript">
-           VK.Widgets.Like('vk_like');
+           VK.Widgets.Like('vk_like', {type: "mini"});
           </script>
         {% endif %}
         {% if is_post %}{% include disqus.html %}{% endif %}
