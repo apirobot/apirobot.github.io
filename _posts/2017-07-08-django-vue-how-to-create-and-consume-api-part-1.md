@@ -182,7 +182,7 @@ http GET "http://localhost:8000/api/v1/notes/"
 ![List](https://raw.githubusercontent.com/apirobot/apirobot.github.io/master/uploads/django-vue-how-to-create-and-consume-api-part-1/list.png)
 
 На этом все. Можете отдохнуть :)<br/>
-В следующей части урока посмотрим, как можно обработать наш API и отобразить его пользователю с помощью Vue.js.
+<a target="blank" href="http://apirobot.me/posts/django-vue-how-to-create-and-consume-api-part-2">В следующей части</a> урока посмотрим, как можно обработать наш API и отобразить его пользователю с помощью Vue.js.
 
 ## Конец
 
