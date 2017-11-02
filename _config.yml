@@ -15,6 +15,9 @@ links:
   - name:         О себе
     url:          /about
     external:     false
+  - name:         RSS
+    url:          http://feeds.feedburner.com/apirobot
+    external:     true
 
 disqus:
   shortname: apirobot # enter this from your disqus account

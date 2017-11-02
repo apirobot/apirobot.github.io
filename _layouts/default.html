@@ -24,7 +24,8 @@
       <nav class="bb b--light-gray pv4 tc" aria-label="Main">
         {% for link in site.links %}
           <a class="link blue hover-mid-gray mh2 pv1"
-             href="{% unless link.external %}{{ site.url }}{% endunless %}{{ link.url }}">
+             href="{% unless link.external %}{{ site.url }}{% endunless %}{{ link.url }}"
+             {% if link.external %}target="_blank"{% endif %}>
              {{ link.name }}
            </a>
         {% endfor %}
