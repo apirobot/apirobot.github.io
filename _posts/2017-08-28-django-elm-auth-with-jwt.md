@@ -114,7 +114,7 @@ JWT_AUTH = {
 Устанавливаем <a target="blank_" href="https://github.com/ottoyiu/django-cors-headers">django-cors-headers</a>:
 
 ```bash
-$ pip install django-cors-heders
+$ pip install django-cors-headers
 ```
 
 Обновляем настройки проекта:
