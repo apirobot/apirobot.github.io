@@ -504,8 +504,10 @@ export default {
       <figure class="avatar avatar-lg">
         <img :src="user.photo" alt="Avatar">
       </figure>
-      <div class="panel-title h5 mt-10">{{ user.first_name }} {{ user.last_name }}</div>
-      <div class="panel-subtitle">{{ user.username }}</div>
+      <div class="panel-title h5 mt-10">
+        {% raw %}{{ user.first_name }} {{ user.last_name }}{% endraw %}
+      </div>
+      <div class="panel-subtitle">{% raw %}{{ user.username }}{% endraw %}</div>
     </div>
     <nav class="panel-nav">
       <ul class="tab tab-block">
@@ -518,7 +520,7 @@ export default {
       <div class="tile tile-centered">
         <div class="tile-content">
           <div class="tile-title">E-mail</div>
-          <div class="tile-subtitle">{{ user.email }}</div>
+          <div class="tile-subtitle">{% raw %}{{ user.email }}{% endraw %}</div>
         </div>
       </div>
     </div>
