@@ -1,7 +1,7 @@
 # ----------- CONFIGURABLE START -----------
 title:            "apirobot"
 description:      "Блог о веб-разработке"
-url:              http://apirobot.me # Site url, without a slash at the end.
+url:              https://apirobot.me # Site url, without a slash at the end.
 signoff:          "apirobot" # Your name
 facebook_appid:   # APP ID for like button
 vk_appid:         6106125 # # APP ID for like button
