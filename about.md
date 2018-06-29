@@ -2,7 +2,14 @@
 title: О себе
 ---
 
-Я на [GitHub](https://github.com/apirobot), [Twitter](https://twitter.com/apirobotme) и в [VK](https://vk.com/apirobotgroup).
+Фулл-стэк разработчик из Беларуси. Серверную часть пишу на Python и Django. Клиентскую часть на Vue.
 
-Мой email: [denis.orehovsky@gmail.com](mailto:denis.orehovsky@gmail.com)<br/>
-Пиши, не стесняйся.
+Работаю на фрилансе.
+
+Если есть какие-то вопросы, то пиши, не стесняйся. Моя почта:
+[denis.orehovsky@gmail.com](mailto:denis.orehovsky@gmail.com)
+
+Другие контакты:
+- Гитхаб: [https://github.com/apirobot](https://github.com/apirobot)
+- Твиттер: [https://twitter.com/apirobotme](https://twitter.com/apirobotme)
+- Группа ВК: [https://vk.com/apirobotgroup](https://vk.com/apirobotgroup)
