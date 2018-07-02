@@ -7,7 +7,7 @@ title: О себе
 Работаю на фрилансе.
 
 Если есть какие-то вопросы, то пиши, не стесняйся. Моя почта:
-[denis.orehovsky@gmail.com](mailto:denis.orehovsky@gmail.com)
+[hi@apirobot.me](mailto:hi@apirobot.me)
 
 Другие контакты:
 - Гитхаб: [https://github.com/apirobot](https://github.com/apirobot)
